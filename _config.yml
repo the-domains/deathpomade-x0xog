@@ -1,4 +1,3 @@
-layout_spectrum: 0.38933879090473056
 typography_spectrum: 0.7923758598044515
 color:
   brandStrength: 0.6041535243857652
@@ -11,4 +10,6 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.38933879090473056
 name: deathpomade
+description: worth it
